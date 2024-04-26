@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Gadisa</h1>
-<h3 align="center">A well passionate fullstack developer from Ethiopian</h3>
+<h3 align="center">A well passionate fullstack developer from Ethiopia</h3>
 
 ![image](https://github.com/GadisaTesfu/Gadisa/assets/168177798/b156ef33-a451-4de7-8a49-1bc214d0c81e)
 
