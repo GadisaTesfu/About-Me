@@ -11,9 +11,9 @@
 - 👨‍💻My portfolio is available on ⬇️⬇️
   
 
-- https://gadisatesfu.vercel.app/
+👍 https://gadisatesfu.vercel.app/
 
-- 💬 Ask me about **react, django,laravel,python**
+- 💬 Framework and Library : **React, Django,Laravel,Python**
 
 - 📫 How to reach me **gedisatesfu1@gmail.com**
 
