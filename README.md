@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working at **bank industry**
 
-- 👨‍💻My portfolio is available on [https://gadisatesfu.vercel.app/]([gadisatesfu.vercel.app](https://gadisatesfu.vercel.app/))
+- 👨‍💻My portfolio is available on ⬇️⬇️
+  
 
 - https://gadisatesfu.vercel.app/
 
