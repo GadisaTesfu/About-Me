@@ -13,7 +13,7 @@
 
 👍 https://gadisatesfu.vercel.app/
 
-- 💬 Framework and Library : **React, Django,Laravel,Python**
+- 💬 Framework and Library : **React, Django,Laravel**
 
 - 📫 How to reach me **gedisatesfu1@gmail.com**
 
